@@ -1,0 +1,6 @@
+{
+  "name": "Thu Thập Kết Quả Vietlott",
+  "description": "Ứng dụng thu thập, theo dõi và thống kê kết quả xổ số Vietlott",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
